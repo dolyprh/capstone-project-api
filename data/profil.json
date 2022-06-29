@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Fadilla Prasetyo",
+        "jobdesk": "Frontend/UI Design",
+        "img" : "https://ik.imagekit.io/cp0jii1iy/profil/IMG_20220629_225058_1_BZtUar6-6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656519003349"
+    },
+    {
+        "id": 2,
+        "name": "Doly Prahoro",
+        "jobdesk": "Frontend/UI Design",
+        "img" : "https://ik.imagekit.io/cp0jii1iy/profil/photo1656518717_1NDZmSgbx.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1656519002252"
+    },
+    {
+        "id": 3,
+        "name": "Lutfiah Adifa",
+        "jobdesk": "Frontend/UI Design",
+        "img" : "https://ik.imagekit.io/cp0jii1iy/profil/pasfoto_cAoDD2BbI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656519004201"
+    },
+    {
+        "id": 4,
+        "name": "Nerla Nurlela",
+        "jobdesk": "UX Research",
+        "img" : "https://ik.imagekit.io/cp0jii1iy/profil/WhatsApp_Image_2022-06-29_at_10.06_uSQFeKYpT.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656519003951"
+    },
+    {
+        "id": 3,
+        "name": "Khairunnisa",
+        "jobdesk": "UX Research",
+        "img" : "https://ik.imagekit.io/cp0jii1iy/profil/Khairunnisa_jFH9ai3I6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656519005970"
+    }
+]
