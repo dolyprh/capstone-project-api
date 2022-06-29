@@ -1,10 +1,12 @@
 const article = require("./data/article");
 const edukasi = require("./data/edukasi");
-const data = require("./data/data.json")
+const data = require("./data/data.json");
+const profil = require("./data/profil.json");
 module.exports = {
   article,
   edukasi,
-  data
+  data,
+  profil
 }
 
 
