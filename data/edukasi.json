@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "show": false,
         "title": "Ciri-Ciri Anak Stunting",
         "list": [
           "Stunting berarti pendek, tetapi tidak semua anak pendek adalah stunting. Namun lebih pada mulnurasi dan mengalami infeksi kronis.",
@@ -11,6 +12,7 @@
     },
     {
         "id": 2,
+        "show": false,
         "title": "Faktor Penyebab Anak Stunting",
         "list": [
           "Riwayat ASI Eksklusif",
@@ -21,10 +23,11 @@
           "Penyakit infeksi terutama infeksi saluran cerna.",
           "Pola asuh makan (ASIEksklusif dan Makanan Pendamping ASI) yang tidak baik"
         ],
-        "img": "https://ik.imagekit.io/cp0jii1iy/icons/icon-park-outline_traditional-chinese-medicine_PViCyBJA8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656466809183"
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_23_fwTOI9aqb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656485202118"
     },
     {
         "id": 3,
+        "show": false,
         "title": "Pencegahan Masa Kehamilan",
         "list": [
           "Ibu Hamil arus diberi asupan nutrisi gizi seimbang dan suplemen yang lengkap.",
@@ -36,6 +39,7 @@
     },
     {
         "id": 4,
+        "show": false,
         "title": "Pencegahan Setelah Kehamilan",
         "list": [
           "Pemenuhan Nutrisi pada 1000 hari pertama kehidupan dan esensial untuk si Kecil seperti vitamin (A, B kompleks, C, D, E, dan K), mineral (kalsium, magnesium, fosfor, sulfur, sodium, kalium, dan klorida), protein, lemak sehat, karbohidrat, dan cairan",
@@ -46,6 +50,7 @@
     },
     {
         "id": 5,
+        "show": false,
         "title": "Penanganan dengan Pendekatan Keluarga",
         "list": [
           "ASI Eksklusif dan memberikan MP-ASI yang memadai",
@@ -57,6 +62,7 @@
     },
     {
         "id": 6,
+        "show": false,
         "title": "Dampak Buruk Stunting pada Anak",
         "list": [
           "Dalam jangka pendek adalah terganggunya perkembangan otak, kecerdasan, gangguan pertumbuhan fisik, dan gangguan metabolisme dalam tubuh.",
@@ -66,6 +72,7 @@
     },
     {
         "id": 7,
+        "show": false,
         "title": "Perbedaan Anak Penderita Stunting dengan Anak Sekadar Bertumbuh pendek",
         "list": [
           "Stunting sering terjadi dalam siklus atau antargenerasi. Artinya, anak yang memiliki kondisi ini umumnya lahir dari seorang ibu yang kekurangan gizi. Selain itu, anak yang mengalami stunting juga lebih mungkin memiliki anak dengan kondisi yang sama pada saat dewasa nantinya. Beda dengan stunting, penyebab anak bertubuh pendek umumnya terkait dengan faktor genetik. Ini berarti anak yang bertubuh pendek biasanya lahir dari orangtua yang pendek pula.",
@@ -75,15 +82,17 @@
     },
     {
         "id": 8,
+        "show": false,
         "title": "Pengaruh Edukasi Terhadap Tingkat Pengetahuan dan Upaya Pencegahan Stunting pada Anak",
         "list": [
           "Perbedaan mean pengetahuan dan upaya pencegahan stunting sebelum dan setelah edukasi. Edukasi dilakukan untuk berbagai tujuan seperti meningkatkan derajat kesehatan, mencegah penyakit dan injuri, memperbaiki atau mengembalikan kesehatan, meningkatkan kemampuan koping terhadap masalah kesehatan seperti pemberdayaan.",
           "Pengaruh pendidikan kesehatan terhadap peningkatan pengetahuan dan perilaku. Oleh karena itu edukasi sangat penting diberikan kepada orang tua."
         ],
-        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_27_-nsi36Ze-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656486747643"
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_20_K0s-iL40B.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656466808716"
     },
     {
         "id": 9,
+        "show": false,
         "title": "Intervenisi Gizi Spesifik",
         "list": [
           "Pemberian Makanan Tambahan untuk mengatasi Kawasan Ekonomi Khusus pada bumil",
